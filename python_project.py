@@ -1,0 +1,36 @@
+import pyttsx3
+import os
+import getpass
+import webbrowser
+import smtplib
+
+pyttsx3.speak(" i am learning first python ! And i was attending less classes during short period of times ")
+pyttsx3.speak(" All the videos uploaded for ankur sir in discord . so , i am also thankful to ankur sir , madhav sir ")
+pyttsx3.speak(" Thank you mam guide and taught us python language in easy way . thank mam once again ")pyttsx3.speak(" hi nisha , lets do something new things ")
+pyttsx3.speak(" Okay let's do ")
+pyttsx3.speak(" Let's try something about application openings through using the libraries ")
+pyttsx3.speak(" okay done ")
+pyttsx3.speak(" let's open chrome ")
+os.system(" chrome ")
+pyttsx3.speak(" Nisha did you see the chrome is open directly ")
+pyttsx3.speak(" yes i see ")
+pyttsx3.speak(" okay lets try other also ")
+pyttsx3.speak(" yup")
+pyttsx3.speak(" which application do you want to see next ")
+pyttsx3.speak(" okay Ankit , open notepad ")
+os.system(" notepad ")
+pyttsx3.speak(" Hey what is going on nisha")
+pyttsx3.speak(" nothing much ")
+pyttsx3.speak(" okay lets try to do something new application")
+pyttsx3.speak(" okay do it and show me ")
+pyttsx3.speak(" okay done")
+pyttsx3.speak(" which application show me ")
+pyttsx3.speak(" powerpoint")
+os.system(" POWERPNT ")
+pyttsx3.speak(" wow ankit its open ")
+pyttsx3.speak(" okay lets see last one application ")
+pyttsx3.speak(" okay done ")
+os.system(" SHAREit ")
+pyttsx3.speak(" Mam , i am thankful to you teaching me i am not a coding stream mam because of you mam ! i learn lot of things in python language ")
+pyttsx3.speak(" i am also thankful all my friends who always help me and guide ")
+pyttsx3.speak(" Thank you ankur sir and madhav sir being guide us and ")
